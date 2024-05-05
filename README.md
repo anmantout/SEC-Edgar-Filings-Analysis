@@ -32,7 +32,7 @@ For details on the benefits of the specific insights derived from SEC filings, p
 
 ## Working
 Videos are uploaded on the link: https://drive.google.com/drive/folders/1afX7X5q8uB0nSHoUnboLzhyJoGxwjfkf?usp=sharing 
-
+Visualization files are present in frontend folder and analysis using GPT LLM is in backend/app.py 
 
 ## Installation
 
